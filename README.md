@@ -25,7 +25,7 @@ I hope you enjoy it!
 1) With your VS Code, make sure you have Python installed on your machine;
 2) Clone this repository: git clone https://github.com/icaroscardua/basic-calculator-python.git;
 3) Navigate to the project folder: cd basic-calculator-python;
-4) Run the program: basic-calculator-python.py
+4) Run the program: python basic-calculator-python.py
 
 ***
 ## Example of use
